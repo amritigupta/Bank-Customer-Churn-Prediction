@@ -1,0 +1,6 @@
+# ML-project-customer-churn
+
+-ANN
+-SVM(RBF, POLY)
+-LOGISTIC REGRESSION
+-RANDOM FOREST
