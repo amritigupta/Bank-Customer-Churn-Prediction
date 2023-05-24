@@ -1,10 +1,12 @@
 import streamlit as st
 import pickle
 import numpy as np
-import base64
 import json
 from PIL import Image
-
+import sklearn
+import pandas as pd
+import math
+import base64
 
 
 #Importing model and label encoders
